@@ -26,14 +26,9 @@ https://flv.intechmedia.net/live/ch108.m3u8
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-id="metrotv" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/f8362f41dc64946c194068cde5abde6f/368372.gif",metro tv (H) 
-#EXTVLCOPT:http-user-agent=www.home.tv(Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/16
+#EXTINF:-1 group-title="NASIONAL" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="MetroTV.id" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/f8362f41dc64946c194068cde5abde6f/368372.gif",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="METROTV" group-title="NASIONAL" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/97e16ba019c62b1b34da4fd97b64ebe5/368373.gif",METROTV
-#https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#http://210.210.155.37/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="vtv.id" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/bf42c6b00d04907f64a47624146cef95/368375.gif",METRO(Y) 
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -1229,62 +1224,6 @@ https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcH
 #KODIPROP:inputstream.adaptive.license_key=ae45e9ae2f2244c18f804195213a495c:00421dca102c69f8432b48626348a989
 https://d2uty8832jppwn.cloudfront.net/out/v1/d0b6763e1b4d4b71869601bfb6ded8da/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
-
-============= NASIONAL DIGITAL========================
-
-
-#EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png" group-title="NASIONAL DIGITAL" tvg-chno="5",RCTI
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/10|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="MNCTV - [Channel 432]" tvg-name="MNCTV - [Channel 82].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1200px-MNCTV_logo.png" group-title="NASIONAL DIGITAL" tvg-chno="6",MNC TV
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="GTV - [Channel 431].id" tvg-name="GTV - [Channel 81].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="NASIONAL DIGITAL" tvg-chno="7",GTV
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/12|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews HD - [Channel 433].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="NASIONAL DIGITAL" tvg-chno="8",iNews
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/32|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="9",SCTV
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/9|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="Indosiar" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="11",Indosiar
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8|user-agent=Mozilla/5.0
-
-#EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="NASIONAL DIGITAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/117|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="13",Trans TV
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/7|user-agent=Mozilla/5.0
-https
-
-#EXTINF:0 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1920px-Trans_7_2013.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="14",Trans 7
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/6|user-agent=Mozilla/5.0
-https
-
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="17",ANTV
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/14|user-agent=Mozilla/5.0
-https
-
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="tvOne - [Channel 97].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/200px-TvOne_2023.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="18",tvOne
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/13|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="VTV" tvg-name="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VTV_Indonesia_2023.svg/800px-VTV_Indonesia_2023.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="20",VTV
-http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
-
-#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV - [Channel 107].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="NASIONAL DIGITAL" tvg-chno="21",Metro TV
-https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/16|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/669793728970682369/CaHHKPMc_400x400.png" group-title="NASIONAL DIGITAL" ,CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-logo="https://pbs.twimg.com/profile_images/1268802866568806401/nqL8otRC_400x400.jpg" group-title="NASIONAL DIGITAL" ,CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/220px-TVRIWorld.png" group-title="NASIONAL DIGITAL" tvg-chno="3",TVRI World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://103.237.32.213:9981/stream/channelid/2087137957?profile=pass
-
 ☯☯ || INDO CHANNELS || ☯☯
 
 
@@ -1362,6 +1301,10 @@ http://metatvpro.xyz:25461/live/J2781/5030/120.ts|user-agent=Mozilla/5.0
 http://metatvpro.xyz:25461/live/J2781/5030/121.ts|user-agent=Mozilla/5.0
 
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8suAD.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BALI TV
+
+#EXTINF:-1 xui-id="11538" tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLiJ4mFYUs2kHPz5eYk89VYrnb40kv1EcDkhn1ueTq8KlXTOb8OQpdUBGkBXeRIYVEs.png" group-title="✅ LOKAL ID",BERITA SATU
+https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/11538|user-agent=Mozilla/5.0
+
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
@@ -1810,22 +1753,6 @@ https://d35wqfkncytyhb.cloudfront.net/out/v1/78979349df4c4f86ae8628861bf0950e/1d
 
 ,=========PREMIUM TV =============
 
-#EXTINF:0 group-title="PREMIUM TV" tvg-logo="https://i.pinimg.com/originals/6d/37/c5/6d37c5f6aa0ee09f6c61678e0c7bd79d.gif", SBS
-http://xtv.ooo:8080/300033334/4445556667777/348225
-
-
-#EXTINF:0 group-title="PREMIUM TV" tvg-logo="https://i.pinimg.com/originals/6d/37/c5/6d37c5f6aa0ee09f6c61678e0c7bd79d.gif", SBS VICELAND
-http://xtv.ooo:8080/300033334/4445556667777/348227
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/originals/6d/37/c5/6d37c5f6aa0ee09f6c61678e0c7bd79d.gif" group-title="PREMIUM TV",TIPIK TV
-#EXTGRP: PREMIUM TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
-https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="PREMIUM TV",Bioskop Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1835,6 +1762,46 @@ https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="PREMIUM TV",HBO (MAXSTREAM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="PREMIUM TV",HBO Hits (MAXSTREAM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="PREMIUM TV",HBO Family (MAXSTREAM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+  
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PREMIUM TV",HBO Signature (MAXSTREAM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="PREMIUM TV",Cinemax (MAXSTREAM)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
