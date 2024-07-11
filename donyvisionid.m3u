@@ -721,58 +721,9 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 =======EURO========
 
 #EXTINF:0 group-title="EURO2024" tvg-logo="https://i.pinimg.com/originals/6d/37/c5/6d37c5f6aa0ee09f6c61678e0c7bd79d.gif", Channel Test
-#https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
-#https://www.dropbox.com/scl/fi/phhamggzk17j0d3cl3afi/Selendang-Biru-Rena-Movies-Feat-Arya-Galih-The-Pangestu-720P_60FPS.mp4?rlkey=3c6za5gn1ve70kixwqjprtpj9&dl=1
-https://raw.githubusercontent.com/mw997/mwtv/master/videos/no-signal.mp4
+#https://raw.githubusercontent.com/mw997/mwtv/master/videos/no-signal.mp4
 
 
-#EXTINF:0 group-title="EURO2024" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif",EURO
-https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
-https://live.happywatch99.com/live/ctn_hp99$!24/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="36" tvg-id="PPTVHD36.th" tvg-name="PPTV HD" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024",PPTV HD (3BBTV)
-#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-
-#EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 422].id" tvg-name="Sportstars 3 HD" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
- 
-#EXTINF:-1 tvg-id="Sportstars 4 - [Channel 422].id" tvg-name="Sportstars 4 HD" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-
-
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024 2
-#EXTVLCOPT:http-referrer=https://www.home.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://103.127.137.190:80/Sugeng/msY9yqKyrR/209
-https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-
-#EXTINF:0 tvg-id="RCTI - [Channel 430].id" tvg-name="RCTI - [Channel 80].id" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024" tvg-chno="5",EURO 2024 3
-https://www.goldentvtech.site:443/live/Reva3/Rafasya/25665.ts
-
-
-#EXTINF:-1 group-title="EURO2024" tvg-id="" tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif",CCTV 5
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024 5
-#EXTVLCOPT:http-referrer=https://www.home.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://103.127.137.190:80/Sugeng/msY9yqKyrR/233
-
-
-#EXTINF:-1 tvg-logo="https://media1.tenor.com/m/oyPBKjCCMsgAAAAC/euro2024-euro2020.gif" group-title="EURO2024", EURO 2024 6
-#EXTVLCOPT:http-referrer=https://www.home.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#http://103.127.137.190:80/Sugeng/msY9yqKyrR/235
 
 
 =============SPORT ID===============
@@ -2181,6 +2132,37 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 <======================== Malaysia ==========================>
 
 
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV3.m3u8
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#https://live.mana2.my/Mytv/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
+https://raw.githubusercontent.com/mystery75/m3u8/main/DIDIKTVKPM.m3u8
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV
+https://raw.githubusercontent.com/mystery75/m3u8/main/8TV.m3u8
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
+https://raw.githubusercontent.com/mystery75/m3u8/main/TV9.m3u8
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="OKEY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/TV_Okey.png/revision/latest?cb=20180622050405",OKEY
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
+#EXTINF:-1 group-title="MY Channel" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://skyios.sky4k.top
+https://skyios.sky4k.top/S1G_010/playlist.m3u8?auth=Astra&Time=0422022
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="MY Channel",TV 1
@@ -2258,6 +2240,11 @@ https://www.dropbox.com/scl/fi/z09xe55ak4hgktd5yeci1/RONDA-SAHUR-PAKAI-SOUND-SYS
 
 
 ########DANGDUT####
+
+
+#EXTINF:-1 tvg-logo="https://media4.giphy.com/media/otCvoxPckOuPzJf3f9/giphy.gif?cid=6c09b952u7ds27sms04fa5nnk6xcjmwvnp4g4kg96s4thtm2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" group-title="Dangdut",Selendang Biru
+#https://www.dropbox.com/scl/fi/0bx2veqkwmlk35n3srxqx/SMPTE-Television-Color-Test-Calibration-Bars-and-1Khz-Sine-Wave-For-1-Hour-720P_HD.mp4?rlkey=9j11pdy2vstxrjs0z1r3mzt7o&dl=1
+https://www.dropbox.com/scl/fi/phhamggzk17j0d3cl3afi/Selendang-Biru-Rena-Movies-Feat-Arya-Galih-The-Pangestu-720P_60FPS.mp4?rlkey=3c6za5gn1ve70kixwqjprtpj9&dl=1
 
 
 #EXTINF:-1 tvg-logo="https://media4.giphy.com/media/otCvoxPckOuPzJf3f9/giphy.gif?cid=6c09b952u7ds27sms04fa5nnk6xcjmwvnp4g4kg96s4thtm2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" group-title="Dangdut",DELIMA
