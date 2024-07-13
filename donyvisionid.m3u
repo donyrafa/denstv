@@ -281,8 +281,8 @@ http://xtv.ooo:8080/387546/200900/350997
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/343966ffa20fcd26bf944f5d1f028a5d/368381.gif" group-title="NASIONAL",MOji(*) 
 #http://iptvmedia.live:8080/adastream2023/Bye5XZwQ8d5Cbs5/298550
-#http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4
-http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
+http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
+#http://103.155.250.139:25461/v3/Ub5dHa4TJp/04
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.gifservice.fr/img/gif-vignette-large/f9beb660020fd187b190be8aeff5fb0b/368380.gif", Mojitv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
