@@ -1326,49 +1326,6 @@ http://metatvpro.xyz:25461/live/J2781/5030/121.ts|user-agent=Mozilla/5.0
 #EXTINF:0 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://pictr.com/images/2023/05/18/E8suAD.png" group-title="Indonesia" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png",BALI TV
 
 
-#EXTINF:-1 xui-id="25665" tvg-id="RCTI.MACAN" tvg-name="RCTI (Sport)" tvg-logo="http://goldenid.online:80/images/dsAt8cMDBjbP3mVNdeYR4bm9qy5f9Kn9PmF2u66T3Tfeynun5CAGXIhUbT_A8f2I.png" group-title="LOKAL INDONESIA™",RCTI (Sport)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKVNQpt2KnPR0W93iLWSSOTU
-#EXTINF:-1 xui-id="25666" tvg-id="MNCTV.MACAN" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="LOKAL INDONESIA™",MNC TV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKUrQGgYWUOFY_qNoHrRFITU
-#EXTINF:-1 xui-id="25667" tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="LOKAL INDONESIA™",GTV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKVKJqqNG0GVQzUVtPHrKoVI
-#EXTINF:-1 xui-id="25668" tvg-id="iNewsTV.MACAN" tvg-name="i News" tvg-logo="https://yt3.googleusercontent.com/aMK2yb18_LeSiad17f9E91m8HH-H6nEeZkZoqASuJ04zkS1Ok6oEjcKiErX1wgTulSASsS8a=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL INDONESIA™",i News
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRS-I8vznkzWfNuGolEndUg
-#EXTINF:-1 xui-id="25681" tvg-id="Trans7.MACAN" tvg-name="Trans 7" tvg-logo="https://www.dropbox.com/scl/fi/csmtr3nvtk4kovqboua10/logo-trans7.png?rlkey=obg6f7jeqa3po1qbm0gg6y59p&st=84hwezqm&dl=1" group-title="LOKAL INDONESIA™",Trans 7
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfGGNb7AVVVYkd0eVgM4Bqw
-#EXTINF:-1 xui-id="25684" tvg-id="TransTV.MACAN" tvg-name="Trans TV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtIfkQ7F3PDmDIbeshisfZE83hMZO87drglKfEmPVwD9cqff0Y" group-title="LOKAL INDONESIA™",Trans TV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKeuRiowBMxuRQ0tX-nTWCxM
-#EXTINF:-1 xui-id="25686" tvg-id="Indosiar.MACAN" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="LOKAL INDONESIA™",Indosiar
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKRka_2bHOmO9SdXyOXQb3y0
-#EXTINF:-1 xui-id="25688" tvg-id="SCTV.MACAN" tvg-name="SCTV (Sport)" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvMfX5O3iQdhcUMx64Zlyddm4nyOmhYbT0ivkss_mZHPsxycsq" group-title="LOKAL INDONESIA™",SCTV (Sport)
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfbqkzTPLhKGR6xBGchB704
-#EXTINF:-1 xui-id="25691" tvg-id="BeritaSatu.MACAN" tvg-name="SCTV" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhRgMGuo5tkNsUW9BDLl6keD_aCwytJSKnjBINOsqFnFCFFNmW" group-title="LOKAL INDONESIA™",SCTV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKYoX2ApPyFO9TKrSG5lvzKo
-#EXTINF:-1 xui-id="25693" tvg-id="NetTV.MACAN" tvg-name="NET TV" tvg-logo="https://yt3.googleusercontent.com/xNyCNNuBxSShQ65UuNeepuQs-a10bjPOAzqOseBpV5Eh7xFdfZ5-xc-pef_acSnNTv-aH_Q5=s900-c-k-c0x00ffffff-no-rj" group-title="LOKAL INDONESIA™",NET TV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKaredxHwUy7bAZo922KjGvo
-#EXTINF:-1 xui-id="25695" tvg-id="KompasTV.Id" tvg-name="Kompas tv" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/123.png" group-title="LOKAL INDONESIA™",Kompas tv
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKQOjycby5M9QEYREzxZ_dY4
-#EXTINF:-1 xui-id="25707" tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/148.png" group-title="LOKAL INDONESIA™",TVRI
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKfJpWTyqbg3Co_65BGdt3eM
-#EXTINF:-1 xui-id="25718" tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="LOKAL INDONESIA™",ANTV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKVcO07CwKczetQ_wsxlt6BE
-#EXTINF:-1 xui-id="25719" tvg-id="TVOne.MACAN" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="LOKAL INDONESIA™",TV ONE
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKWJGwf-kBkHRuE-_Efc8zKQ
-#EXTINF:-1 xui-id="25722" tvg-id="MetroTV.MACAN" tvg-name="METRO TV HD" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/103.png" group-title="LOKAL INDONESIA™",METRO TV HD
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKQRCTgWrAwWN1ehb-LuagpU
-#EXTINF:-1 xui-id="25732" tvg-id="RajawaliTV.id" tvg-name="RTV FHD" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="LOKAL INDONESIA™",RTV FHD
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKUK7e86488LKM2enyEf6RvU
-#EXTINF:-1 xui-id="25764" tvg-id="" tvg-name="Moji TV" tvg-logo="https://i.imgur.com/FxS4HLZ.jpeg" group-title="LOKAL INDONESIA™",Moji TV
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKT4IguJRvhQOybdg-0jEsaA
-
-#EXTINF:-1 xui-id="23438" tvg-id="" tvg-name="RCTI" tvg-logo="http://goldenid.online:80/images/dsAt8cMDBjbP3mVNdeYR4ZUdX6p5fKXRlq2ThHPEXfY.png" group-title="LOKAL INDONESIA™",RCTI
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKQdCTpTAxc565Omxwz2I_Oo
-
-#EXTINF:-1 xui-id="45250" tvg-id="" tvg-name="Trans 7 Transmedia" tvg-logo="https://www.dropbox.com/scl/fi/csmtr3nvtk4kovqboua10/logo-trans7.png?rlkey=obg6f7jeqa3po1qbm0gg6y59p&st=84hwezqm&dl=1" group-title="LOKAL INDONESIA™",Trans 7 Transmedia
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKXNRe2WJXixPjtGCmqpOm4A
-
-#EXTINF:-1 xui-id="45251" tvg-id="" tvg-name="Trans TV Transmedia" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtIfkQ7F3PDmDIbeshisfZE83hMZO87drglKfEmPVwD9cqff0Y" group-title="LOKAL INDONESIA™",Trans TV Transmedia
-http://goldenid.online:80/play/4OrS7IXEbaXet1GHVt2GKdivVKNx-WxCQdlvwzRF8n8
 
 
 ========TV DAERAH===========
