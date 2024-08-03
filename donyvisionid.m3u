@@ -844,21 +844,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:11223344556677889900112233445566
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO SPORTS",Astro SuperSport 1
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1722
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro SuperSport 2" tvg-logo="https://i.imgur.com/4wXmnDY.png" group-title="ASTRO SPORTS",Astro SuperSport 2
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1721
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro SuperSport 3" tvg-logo="https://i.imgur.com/3SFILZl.png" group-title="ASTRO SPORTS",Astro SuperSport 3
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro SuperSport 4" tvg-logo="https://i.imgur.com/v6cGRFh.png" group-title="ASTRO SPORTS",Astro SuperSport 4
-http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
-#EXTINF:-1 tvg-id="AstroSupersport5" tvg-name="Astro SuperSport 5" tvg-logo="https://i.imgur.com/jb1igcv.png" group-title="ASTRO SPORTS",Astro SuperSport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://webudit.webhd.ru/lb/premium43/index.m3u8|Origin=https://weblivehdplay.ru/
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/SPOTV-STADIA_IVP_LAND_917x516.jpg" group-title="ASTRO SPORTS",SPOTV STADIA
+#EXTINF:-1 tvg-name="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-800/http://linear-poster.astro.com.my/prod/poster/SPOTV-STADIA_IVP_LAND_917x516.jpg" group-title="EUROSPORT",SPOTV STADIA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://metatvpro.xyz:25461/live/J2781/5030/24431.ts
@@ -893,42 +879,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
-
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 1 (OTT)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NHRKUTYvQ1NTVFJCNlZuL3dZdkhabXp5Z1JlZU1mYWwxaGVxMk9HT3N4ZWc2aU5NYUdYbVZwWkwxcUR5V0FPTkY3UXJxTTlhYnBpZWRpNDhqbzNHM1R3UnNIa3gzWCtqOEpQTkp2RzJqUFBrVmEwUSsrVERPWnk2WkVCdko0T200Q2FBWWN3aDdwY2N6aXA3R0ZUYTJ4YnBQQkhraTRvd3hvQ0s4OGtFQ3FjPQ==
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 2 (OTT)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NHRKUTYvQ1NTVFJCNlZuL3dZdkhabXp5Z1JlZU1mYWwxaGVxMk9HT3N4ZWc2aU5NYUdYbVZwWkwxcUR5V0FPTkY3UXJxTTlhYnBpZWRpNDhqbzNHM1h2TkVweEpWUzRaTWMxWUNuOElhL1k1aUtmOXVDaElIdU90aUhUaURhZDlxaWZJdmY5ZHhqSG8zeUNoaWUraU1JN21tZGZqVTlqMG40K2F0b1NuY0k0PQ==
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 3 (OTT)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NHRKUTYvQ1NTVFJCNlZuL3dZdkhabXp5Z1JlZU1mYWwxaGVxMk9HT3N4ZWc2aU5NYUdYbVZwWkwxcUR5V0FPTkY3UXJxTTlhYnBpZWRpNDhqbzNHM1Rzd0oxN0djSWNWWjNPbGtQVHh5UVExczFlNGRsSUxaQ2xFdWx4OXh2c2ppNXVpUHgxeENNWXdjVi9MUWdwbmRrSTlWUnhmQXhoaE1hMWgrYjh3OHhzPQ==
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 4 (OTT)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NHRKUTYvQ1NTVFJCNlZuL3dZdkhabXp5Z1JlZU1mYWwxaGVxMk9HT3N4ZWc2aU5NYUdYbVZwWkwxcUR5V0FPTkY3UXJxTTlhYnBpZWRpNDhqbzNHM2R4aVppbi92V1p3K1ptUHo2SVhjVGxFRXZjZ3ZIMzN3TFdZQnJhOVBDUzNITllrREFEVHVGNUZUK0w1QTZxa2dqYTNrRWFaN2p2YzFWcTd4NC9sdTIwPQ==
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="TNT Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png",TNT Sports 5 (OTT)
-#EXTHTTP:
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NHRKUTYvQ1NTVFJCNlZuL3dZdkhabXp5Z1JlZU1mYWwxaGVxMk9HT3N4ZWc2aU5NYUdYbVZwWkwxcUR5V0FPTkY3UXJxTTlhYnBpZWRpNDhqbzNHM1ZMc0ZyalpCUTB5bFM0ZHJzbllUZEZvdXA4aWRJYm84cExYTWgvL2pIa0lQZVIzeTgwcTM1L0tiQTR0TENCNGRLUkVqTk95UDlYcnZZSk5aNUVkeFhBPQ==
 ====SPORT=====
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/Pygaf0_fHCQ/maxresdefault.jpg" group-title="Sports" , Peacock PL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -936,7 +886,6 @@ https://her.otv.my.id/cenc/get.mpd?type=dash&auth=NHRKUTYvQ1NTVFJCNlZuL3dZdkhabX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
 
 #EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://opsi.id/uploads/gambar-1654768123.jpg" group-title="Sports" , FIFA+ 🌏
 https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
